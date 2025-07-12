@@ -1,32 +1,66 @@
-# Mintlify Starter Kit
+#  Welcome to the InboxAutomation Help Center 👋
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+Need help getting started or solving an issue? You’re in the right place.  
 
-- Guide pages
-- Navigation
-- Customizations
-- API Reference pages
-- Use of popular components
+Browse our guides, FAQs, and troubleshooting steps to get the most out of InboxAutomation.
 
-### Development
+New to InboxAutomation? Start here:
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
+- - 👉 [What is InboxAutomation?](getting-started/what-is-inboxautomation)
+- - 🚀 [Quick Setup Guide](getting-started/quick-setup)
+- - ✉️ [How to Create Your First Mailbox](mailboxes/create-mailbox)
+- - 🔐 [Domain Setup & Google Workspace Verification](domains/setup-google-workspace)
 
-```
-npm i -g mintlify
-```
+### 
 
-Run the following command at the root of your documentation (where docs.json is)
+## 🔥 Popular Articles
 
-```
-mintlify dev
-```
+- [Why Emails Bounce and How to Fix It](troubleshooting/email-bounce)
 
-### Publishing Changes
+- [How to Set Up SPF, DKIM, and DMARC Records](dns-records/spf-dkim-dmarc)
 
-Install our Github App to auto propagate changes from your repo to your deployment. Changes will be deployed to production automatically after pushing to the default branch. Find the link to install on your dashboard. 
+- [Enable 2FA for Google Mailboxes](security/2fa-google-mailbox)
 
-#### Troubleshooting
+- [Automatically Verify Domains via Cloudflare](automation/domain-verification)
 
-- Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
-- Page loads as a 404 - Make sure you are running in a folder with `docs.json`
+### 📂 Categories
+
+### 🛠️ Getting Started
+
+Learn the basics and set up your account step-by-step  
+
+→ [View Articles](getting-started/overview)
+
+### 📬 Mailboxes
+
+Manage, create, and secure your mailboxes  
+
+→ [View Articles](mailboxes/overview)
+
+### 🌐 Domain Management
+
+Connect, verify, and configure domains via Google Workspace and Cloudflare  
+
+→ [View Articles](domains/overview)
+
+### ⚙️ Automation & API
+
+Use our API and automation tools for mailbox creation, domain verification, and more  
+
+→ [View Articles](api/overview)
+
+### ❓ Troubleshooting
+
+Fix common issues, email errors, and configuration problems  
+
+→ [View Articles](troubleshooting/overview)
+
+---
+
+## 💬 Still need help?
+
+If you can't find what you're looking for, contact our support team — we're here to help.
+
+👉 [Contact Support]([https://inboxautomation.co/contact](https://inboxautomation.co/contactus)us)  
+
+📧 Email us: [support@inboxautomation.](mailto:support@inboxautomation.buzz)buzz  
